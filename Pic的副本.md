@@ -1,13 +1,13 @@
 ---
 layout: page
-title: "Picture"
+title: "Picture2"
 description: "图片归档"
 header-img: "img/orange.jpg"
 ---
 
 
 <ul class="listing">
-{% for post in site.pictures %}
+{% for post in site.Picture %}
   {% capture y %}{{post.date | date:"%Y"}}{% endcapture %}
   {% if year != y %}
     {% assign year = y %}
