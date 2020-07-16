@@ -1,10 +1,10 @@
----
+﻿---
 layout: page
 title: "Picture"
 description: "图片归档"
 header-img: "img/orange.jpg"
 ---
-
+目前还没想好具体放那些图片。恩 先看ins去吧
 
 <ul class="listing">
 {% for post in site.pictures %}
