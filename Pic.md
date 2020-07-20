@@ -5,7 +5,7 @@ description: "图片归档"
 header-img: "img/orange.jpg"
 ---
 
-![avatar](J:\Github\baabbabyy.github.io\_pictures\2020_7_劳动文化馆荷花.jpg)
+![avatar](https://raw.githubusercontent.com/baabbabyy/baabbabyy.github.io/master/_pictures/2020_7_%E5%8A%B3%E5%8A%A8%E6%96%87%E5%8C%96%E9%A6%86%E8%8D%B7%E8%8A%B1.jpg)
 
 目前还没想好具体放那些图片。恩 先看ins去吧
 
