@@ -4,6 +4,9 @@ title: "Picture"
 description: "图片归档"
 header-img: "img/orange.jpg"
 ---
+
+![avatar](J:\Github\baabbabyy.github.io\_pictures\2020_7_劳动文化馆荷花.jpg)
+
 目前还没想好具体放那些图片。恩 先看ins去吧
 
 <ul class="listing">
