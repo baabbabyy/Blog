@@ -1,6 +1,6 @@
 ﻿---
 layout: post
-title: 10.19 史航的微信
+title: Aircraft Performance 的答案
 date: 2020-10-19
 categories: blog
 tags: [学习]
