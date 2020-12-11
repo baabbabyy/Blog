@@ -12,5 +12,4 @@ header-img: "img/green.jpg"
 
 我想我大概是个心软的冷血怪人。
 
-
-
+* “All the world's a stage, and one man in his time plays many parts.” -- W. Shakespeare *
